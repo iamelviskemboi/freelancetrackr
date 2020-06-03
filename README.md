@@ -1,2 +1,2 @@
-# freelancetrackr
-This is a freelance project tracker
+# TRACK-MY-PROJECT
+This is a freelance project tracker.
